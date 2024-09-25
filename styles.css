@@ -13,6 +13,12 @@ body{
     min-width: 500px;
 }
 
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
 /* Intro Text Div Attributes */
 .intro-text{
     display: flex;
@@ -27,6 +33,7 @@ body{
     color: whitesmoke;
     margin:0px;
     grid-column: span 3;
+    padding-top: 2rem;
 }
 
 
