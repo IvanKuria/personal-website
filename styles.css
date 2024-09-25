@@ -13,6 +13,7 @@ body{
     min-width: 500px;
 }
 
+/* Image Attributes */
 img {
   width: 150px;
   height: 150px;
@@ -46,6 +47,7 @@ img {
 
 }
 
+/* Career Attributes */
 .career{
     font-family: Inter, "Inter Placeholder", sans-serif;
     font-weight: lighter;
@@ -54,6 +56,7 @@ img {
 
 }
 
+/* Resume, Projects and Contact Attributes */
 .content{
     display: flex;
     gap: 2rem;
@@ -69,10 +72,12 @@ img {
   gap: 40px;
 }
 
+/* SVG Div Attributes */
 .socials-container a{
   background-color: gray;
 }
 
+/* SVG Div Attributes */
 .socials-container a svg{
   height: 32px;
   fill: white;
