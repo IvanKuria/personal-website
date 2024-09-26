@@ -14,10 +14,17 @@ body{
 }
 
 /* Image Attributes */
-img {
+.glow {
   width: 150px;
   height: 150px;
+  object-fit: cover;
   border-radius: 50%;
+}
+
+/* Adds a hover affect to the image */
+.glow:hover {
+  background: gold;
+  box-shadow: 0 0 70px gold
 }
 
 /* Intro Text Div Attributes */
