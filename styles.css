@@ -105,13 +105,13 @@ a:link {
   }
   
 a:visited {
-  color: purple;
+  color: gray;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: gray;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
