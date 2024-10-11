@@ -42,6 +42,7 @@ body{
     margin:0px;
     grid-column: span 3;
     padding-top: 2rem;
+    text-shadow: gray 1px 0 10px;
 }
 
 
@@ -51,6 +52,7 @@ body{
     color: whitesmoke;
     font-weight: bold;
     max-width: auto;
+    text-shadow: gray 1px 0 10px;
 
 }
 
@@ -58,8 +60,9 @@ body{
 .career{
     font-family: Inter, "Inter Placeholder", sans-serif;
     font-weight: lighter;
-    color: white;
+    color: whitesmoke;
     font-size: 1.8rem;
+    text-shadow: gray 1px 0 10px;
 
 }
 
@@ -99,13 +102,13 @@ body{
 
 /* Link Attributes */
 a:link {
-    color: wheat;
+    color: gray;
     background-color: transparent;
     text-decoration: none;
   }
   
 a:visited {
-  color: gray;
+  color: wheat;
   background-color: transparent;
   text-decoration: none;
 }
